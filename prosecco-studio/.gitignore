@@ -1,0 +1,9 @@
+build/
+
+# elm-package generated files
+elm-stuff
+
+
+# Dependency directories
+node_modules
+
